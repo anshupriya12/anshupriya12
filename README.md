@@ -99,7 +99,7 @@ Results visualized in Google Earth.
 DL model for cervical cancer detection using Pap smear images.
 Transfer learning + Federated Learning (FedAvg) for privacy-preserving training.
 
-`Federated Learning` `Transfer Learning` `Medical AI` `PyTorch`
+`Federated Learning` `Transfer Learning` `Medical AI` `Tensorflow`
 
 ---
 
