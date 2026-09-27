@@ -44,17 +44,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=anshupriya12&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshupriya12&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
-
-</div>
-
----
-
 ### 🌐 Connect
 
 [![Email](https://img.shields.io/badge/Email-22cs2020%40rgipt.ac.in-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:22cs2020@rgipt.ac.in)
