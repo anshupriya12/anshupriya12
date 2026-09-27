@@ -1,23 +1,17 @@
 <div align="center">
 
-### *"“If there is any instrument you must fall in love with and fetishize, it is the human brain"*
+### *"If there is any instrument you must fall in love with and fetishize, it is the human brain"*
 **— Robert Greene**
 
 </div>
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20👋,%20I'm%20Anshu%20Priya&fontSize=38&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20%2B%20AI%20·%20IDD%20@%20RGIPT%20'27&descAlignY=58&descSize=18"/>
+
 <br>
 
-<div align="center">
-
-# Hi 👋, I'm Anshu Priya
-
-**Computer Science + AI · IDD @ RGIPT '27**
-
-</div>
-
-**Building AI Systems · Computer Vision · Embedded ML · Research**
-
----
+<table>
+<tr>
+<td width="60%" valign="top">
 
 ### 🚀 About Me
 
@@ -25,6 +19,13 @@
 - 🔭 ML Intern @ IIT Delhi — embedded ML for on-device activity recognition
 - 🛰️ Research Intern @ NIT Patna — satellite land-cover classification (96.5% acc.)
 - 🏆 Winner, Smart India Hackathon 2024 · Global Nominee, NASA Space Apps 2025
+
+</td>
+<td width="40%" align="center">
+<img src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="100%"/>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -59,5 +60,4 @@
 [![Email](https://img.shields.io/badge/Email-22cs2020%40rgipt.ac.in-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:22cs2020@rgipt.ac.in)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Anshu_Priya-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anshu-priya-489ab7261/)
 [![GitHub](https://img.shields.io/badge/GitHub-anshupriya12-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/anshupriya12)
-
 
