@@ -24,7 +24,6 @@
 - 🎓 Integrated Dual Degree — B.Tech CSE + M.Tech AI @ RGIPT
 - 🔭 ML Intern @ IIT Delhi — embedded ML for on-device activity recognition
 - 🛰️ Research Intern @ NIT Patna — satellite land-cover classification (96.5% acc.)
-- 🧠 Currently building **Drip.AI**, an AI fashion recommendation engine
 - 🏆 Winner, Smart India Hackathon 2024 · Global Nominee, NASA Space Apps 2025
 
 ---
