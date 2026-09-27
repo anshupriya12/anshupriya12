@@ -1,6 +1,6 @@
 <div align="center">
 
-### *"The best instrument that a human can fantasize is human brain."*
+### *"“If there is any instrument you must fall in love with and fetishize, it is the human brain"*
 **— Robert Greene**
 
 </div>
